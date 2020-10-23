@@ -19,7 +19,7 @@ navbar:
       menu: 
         - text: "Applied Economic Forecasting (AAEC 4984/5984)" 
           href: aaec4984.html
-        - text: "---------"
+        - text: "Analytic Methods in Applied Econ (AAEC 3014)"
         - text: "TBD" 
     - text: "Resources"
       href: about.html
