@@ -3,7 +3,7 @@
 .distill-site-nav{
   color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
   background-color: rgba(100,1,1,1);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 300;
   }
   
@@ -45,18 +45,4 @@
 /* Changes the color of links in the main body when mouse hovers over them */
 a:hover{
   color: orange;
-}
-
-d-title h1 {
-    grid-column: text;
-    font-size: 35px;
-    font-weight: 700;
-    line-height: 1.1em;
-}
-
-d-title p {
-    font-weight: 300;
-    font-size: 1.2rem;
-    line-height: 1.4em;
-    grid-column: text;
 }

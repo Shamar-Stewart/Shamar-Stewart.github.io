@@ -1,7 +1,10 @@
 ---
 title: "Shamar Stewart"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Assistant Professor <br>
+  Department of Agricultural & Applied Economics <br>
+  Virginia Tech 
+ # <a href="mailto:stewartls@vt.edu"><i class="fa fa-envelope"></i></a>
 site: distill::distill_website
 
 ---

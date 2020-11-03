@@ -1,7 +1,10 @@
 name: "Websites"  
 title: "Shamar Stewart"
 base_url: https://shamar-stewart.github.io
-
+description: |
+  Department 
+  Department 
+  Virginia Tech
 output_dir: "."
 navbar:
   logo:
@@ -14,19 +17,18 @@ navbar:
     
     - text: "Teaching"
       menu: 
-        - text: "Applied Economic Forecasting" 
-          href: forecasting.html
+        - text: "Applied Economic Forecasting (AAEC 4984/5984)" 
+          href: aaec4984.html
         - text: "---------"
-        - text: "Analytical Methods in Applied Economics" 
-        - text: "---------"
-    - text: "Research"
-      href: research.html
-    - icon: fa-envelope fa-lg #https://fontawesome.com/v4.7.0/icons/*/
-      href: "mailto:stewartls@vt.edu"
+        - text: "TBD" 
+    - text: "Resources"
+      href: about.html
+    - icon: fa-envelope fa-lg #https://fontawesome.com/v4.7.0/icons/
+      #mail: stewartls@vt.edu
     - icon: fa-university fa-lg 
       href: https://vt.edu
-    # - icon: fab fa-github
-    #   href: https://github.com/shamar-stewart/forecasting
+    - icon: fab fa-github
+      href: https://github.com/shamar-stewart/forecasting
       
 output: 
   distill::distill_article:
