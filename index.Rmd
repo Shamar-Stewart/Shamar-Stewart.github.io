@@ -1,10 +1,7 @@
 ---
 title: "Shamar Stewart"
 description: |
-  Assistant Professor <br>
-  Department of Agricultural & Applied Economics <br>
-  Virginia Tech 
- # <a href="mailto:stewartls@vt.edu"><i class="fa fa-envelope"></i></a>
+  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 
 ---
