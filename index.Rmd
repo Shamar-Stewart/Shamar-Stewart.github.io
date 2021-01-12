@@ -1,10 +1,16 @@
 ---
 title: "Shamar Stewart"
 description: |
-  Welcome to the website. I hope you enjoy it!
-site: distill::distill_website
+  Hi
 
 ---
+  
+ Professor
+Department of Agricultural and Applied Economics
+Virginia Tech
+cell: (775) 560-3288
+e-mail: moeltner@vt.edu
+site: distill::distill_website
 
 
 <img src="images/Shamar_Stewart.jpg" style="width:40%; margin-right: 20px" align="left"> 
