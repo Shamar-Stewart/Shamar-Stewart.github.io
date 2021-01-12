@@ -11,18 +11,18 @@ navbar:
   
   right:
     - text: "Home"
-      href: index.html
+      href: index.rmd
     - text: "CV"
     
     - text: "Teaching"
       menu: 
         - text: "Applied Economic Forecasting (AAEC 4984/5984)" 
-          href: aaec4984.html
+          href: aaec4984.rmd
             - text: "TBD"
         - text: "---------"
         - text: "TBD" 
     - text: "Resources"
-      href: about.html
+      href: about.rmd
     - icon: fa-envelope fa-lg #https://fontawesome.com/v4.7.0/icons/
     - icon: fa-university fa-lg 
       href: https://vt.edu
