@@ -18,6 +18,7 @@ navbar:
       menu: 
         - text: "Applied Economic Forecasting (AAEC 4984/5984)" 
           href: aaec4984.html
+            - text: "TBD"
         - text: "---------"
         - text: "TBD" 
     - text: "Resources"
